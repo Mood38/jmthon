@@ -3,7 +3,7 @@
 
 ## رابـط السـورس للتنـصيـب
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mood38/mus1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/Mood38/jmthon)
 
 ## شكـرا لكـم 
 
